@@ -1,2 +1,3 @@
 this is infomation file
 she is a pretty girl
+this is message file
